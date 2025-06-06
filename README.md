@@ -46,12 +46,5 @@
   </div>
 </div>
 
-<br>
-
-# 📊 Contribution Graph:
-<p dir="auto"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabevvam&amp;bg_color=282a35&amp;color=ffffff&amp;line=ec7696&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Ashutosh's github activity graph" style="max-width: 100%;"></a></p>
-
----
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
