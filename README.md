@@ -47,5 +47,5 @@
 <br>
 
 <div align="center">
-  <p><i>"Vibe coding" my way through the weekends.</i> 🏎️💨</p>
+  <p><i>Why not you.</i> 🏎️💨</p>
 </div>
